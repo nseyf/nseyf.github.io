@@ -189,9 +189,8 @@ background: blue;
 .contactMe {
   width: 75%;
   margin: 0 auto;
-  text-align: justify;
   padding-bottom: 15px;
-  font-size: 4vh;
+  font-size: 3.5vh;
 }
 .portfolioLink {
   font-family: "Bungee";
