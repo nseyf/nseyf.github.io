@@ -100,7 +100,7 @@ h2 {
 }
 #intro {
   margin-bottom: 50px;
-  border-bottom: 3px solid black;
+  border-bottom: 5px solid black;
 }
 #bioText {
   margin: 0 auto;
@@ -153,6 +153,7 @@ toFadeIn {
   list-style-type: none;
   font-family: "Bungee";
   font-size: 4vh;
+    color: rgba(78, 67, 118, 1);
 display: inline-block;
 }
 
