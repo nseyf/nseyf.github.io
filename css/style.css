@@ -55,7 +55,7 @@ margin:  0 auto;
 
 body {
   background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/background2.jpg') center;
+  url('https://nseyf.github.io/images/background2.jpg') center;
   background-size: cover;
 height: 100vh;
 }
@@ -237,31 +237,31 @@ background: blue;
 }
 #movieSearch {
   background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/moviesearch2.jpg') center;
+  url('https://nseyf.github.io/images/moviesearch2.jpg') center;
   background-size: cover;
 }
 #randomQuoteMachine {
     background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/quotemachine2.jpg') center;
+  url('https://nseyf.github.io/images/quotemachine2.jpg') center;
   background-size: cover;
 }
 #pomodoro {
     background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/pomodorotimer2.jpg') center;
+  url('https://nseyf.github.io/images/pomodorotimer2.jpg') center;
   background-size: cover;
 }
 #weatherApp {
     background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/weatherapp2.jpg') center;
+  url('https://nseyf.github.io/images/weatherapp2.jpg') center;
   background-size: cover;
 }
 #jQueryDictionary {
     background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/jquerydictionary2.jpg') center;
+  url('https://nseyf.github.io/images/jquerydictionary2.jpg') center;
   background-size: cover;
 }
 #restaurantTheme {
     background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
-  url('file:///Users/nimaseyf/downloads/v2/images/restaurant2.jpg') center;
+  url('https://nseyf.github.io/images/restaurant2.jpg') center;
   background-size: cover;
 }
