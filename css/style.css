@@ -108,9 +108,9 @@ h2 {
 }
 #bioText h2 {
   color: black;
-  width: 70%;
+  width: 100%;
   font-size: 5vh;
-  text-align: left;
+  text-align: center;
 }
 .bio {
     font-size: 2vh;
