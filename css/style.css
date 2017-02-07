@@ -222,6 +222,7 @@ font-size: 3vh;
 
 .fa-github, .fa-envelope {
   padding: 20px;
+    height: 3vh;
   color: white;
 }
 
