@@ -51,12 +51,6 @@ margin:  0 auto;
 
   }
 
-@media(min-device-width : 320px) and (max-device-width : 768px) {
-.bio {
-  font-size: 2;
-}
-    
-}
 
 body {
   background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
@@ -120,7 +114,7 @@ h2 {
   text-align: left;
 }
 .bio {
-    font-size: 25px;
+    font-size: 2vh;
   text-align: justify;
   font-family: "Open Sans"
 }
