@@ -51,6 +51,10 @@ margin:  0 auto;
 
   }
 
+@media(min-device-width : 320px) and (max-device-width : 768px) {
+.bio {
+  font-size: 20px;
+}
 
 
 body {
