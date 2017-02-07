@@ -131,7 +131,7 @@ h1 {
 #summary {
   text-align: center;
   width: 65%;
-  font-size: 3em;
+  font-size: 5.5vh;
   margin: 0 auto;
   border-bottom: 5px solid black;
   padding-top:20px;
@@ -151,12 +151,12 @@ toFadeIn {
 .skillItem {
   list-style-type: none;
   font-family: "Bungee";
-  font-size: 2em;
+  font-size: 4vh;
 display: inline-block;
 }
 
 #portfolio {
-  font-size: 4em;
+  font-size: 5vh;
   text-align: center;
   width: 100%;
   margin-bottom: 100px;
