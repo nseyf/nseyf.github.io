@@ -57,8 +57,8 @@ margin:  0 auto;
 
   }
 
-
-
+    
+    @media(min-device-width: 768px){
 
 body {
   background: linear-gradient(to left, rgba(43, 88, 118, 0.4), rgba(78, 67, 118, 0.4)),
@@ -273,3 +273,4 @@ background: blue;
   url('https://nseyf.github.io/images/restaurant2.jpg') center;
   background-size: cover;
 }
+    }
