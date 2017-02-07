@@ -53,7 +53,7 @@ margin:  0 auto;
 
 @media(min-device-width : 320px) and (max-device-width : 768px) {
 .bio {
-  font-size:2em;
+  font-size:medium;
 }
     
 }
@@ -121,7 +121,6 @@ h2 {
 }
 .bio {
   text-align: justify;
-   font-size: 0.5em;
   font-family: "Open Sans"
 }
 .row {
