@@ -83,6 +83,7 @@ display: inline-block;
   letter-spacing: 5px;
   border: 5px solid white;
   font-size: 7vh;
+      text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
 
 }
 h2 {
