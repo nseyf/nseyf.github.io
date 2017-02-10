@@ -227,6 +227,7 @@ font-size: 3vh;
   padding: 20px;
     height: 3vh;
   color: white;
+    transition: 1s;
 }
 
 .fa-github:hover {
