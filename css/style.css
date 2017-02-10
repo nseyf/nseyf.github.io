@@ -71,6 +71,7 @@ margin-top: 15px;
   color: white;
 position: fixed;
   z-index: 99;
+    cursor:pointer;
 }
 
 .name {
