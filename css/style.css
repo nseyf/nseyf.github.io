@@ -201,6 +201,7 @@ display: inline-block;
   border-radius: 25px;
   color: white;
 font-size: 3vh;
+    transition: 1s;
 }
 
 .portfolioLink:hover {
