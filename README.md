@@ -1,2 +1,2 @@
 # nseyf.github.io
-New website.
+New personal website. Uses Bootstrap and jQuery.
